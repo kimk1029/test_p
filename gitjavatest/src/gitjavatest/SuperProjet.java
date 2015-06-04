@@ -6,5 +6,6 @@ public class SuperProjet {
 		System.out.println("ddd");
 		System.out.println("d22dd");
 		System.out.println("갓유식");
+		System.out.println("갓유식2");
 	}
 }
